@@ -53,28 +53,36 @@ Connect Devboard Usb Port Directly to your Pc
 - RX
 - GND
 
+-----------
+-----
+------
 
 
+## ATSAMD21 Setup
+
+### Install Bootloader
+1. Connect USB to SWD Converter To DevBoard [Given Above](#swd)
+2. Download the [UF2 bootloader](https://downloads.circuitpython.org/bin/trinket_m0/en_US/adafruit-circuitpython-trinket_m0-en_US-10.3.0-alpha.2.uf2)
+3. Flash the Bootloader 
+~[Source](https://learn.adafruit.com/adafruit-qt-py/uf2-bootloader-details) 
 
 
+### Verify Bootloader
+1. Connect the Board via [USB](#usb)
+2. Quickly press the RESET button twice 
+<img width=40% alt="image" src="https://github.com/user-attachments/assets/eb2d3f6d-9f3f-4946-8f52-bf036eba3d71" /> 
+
+3. Devboard detected in the PC As a external Storage 
+<img width="800" height="301" alt="Recording2026-06-06223643-ezgif com-speed" src="https://github.com/user-attachments/assets/69c8cde0-e02c-4d08-941e-243680734509" />
 
 
+### Upload Firmware
+1. Connect the Board via [USB](#usb)
 
+2. Quickly press the RESET button twice 
+<img width=40% alt="image" src="https://github.com/user-attachments/assets/eb2d3f6d-9f3f-4946-8f52-bf036eba3d71" /> 
 
+3. Prepare your firmware in .uf2
 
-
-
-## Board Overview
-<img width="1111" height="702" alt="image" src="https://github.com/user-attachments/assets/f869443b-6fcc-4dc3-8293-ab5b9ad08c34" />
-
-### In this DevBoard we have 2 MCU
-
-- Esp-12s: As a Wifi Module
-- Atsamd21e18A-AU: Main processing unit
-
-### Board Interfaces
-- USB
-- SWD
-- UART
-- GPIO
-
+4. Paste your firmware in Detected External storage 
+<img width="818" height="388" alt="20260606-1743-07 7803021" src="https://github.com/user-attachments/assets/23f23f05-d857-41ca-997a-91e4c60d457d" />
