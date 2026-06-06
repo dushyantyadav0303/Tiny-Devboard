@@ -64,7 +64,6 @@ Connect Devboard Usb Port Directly to your Pc
 1. Connect USB to SWD Converter To DevBoard [Given Above](#swd)
 2. Download the [UF2 bootloader](https://downloads.circuitpython.org/bin/trinket_m0/en_US/adafruit-circuitpython-trinket_m0-en_US-10.3.0-alpha.2.uf2)
 3. Flash the Bootloader 
-~[Source](https://learn.adafruit.com/adafruit-qt-py/uf2-bootloader-details) 
 
 
 ### Verify Bootloader
