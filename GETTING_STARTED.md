@@ -16,7 +16,7 @@
   * [Install Bootloader](#install-bootloader)
   * [Verify Bootloader](#verify-bootloader)
   * [Upload Firmware](#upload-firmware)
-* [ESP-12S Setup](#esp-12s-setup)
+* [ESP-12S Setup](#ESP-12S-Setup)
 
   * [Check Existing Firmware](#check-existing-firmware)
   * [Flash Firmware](#flash-firmware)
@@ -87,7 +87,7 @@ Connect Devboard Usb Port Directly to your Pc
 <img width="818" height="388" alt="20260606-1743-07 7803021" src="https://github.com/user-attachments/assets/23f23f05-d857-41ca-997a-91e4c60d457d" />
 
 
-## esp-12s-setup
+## ESP-12S-Setup
 
 ### Check Existing Firmware
 
@@ -111,6 +111,7 @@ If not then Follow next [Flash Firmware](#flash-firmware)
 4. Open Flashing tool 
 - Select Esp8266 & Developer mode 
 <img width="219" height="212" alt="image" src="https://github.com/user-attachments/assets/d996457b-faa6-42c9-8990-a25f0b22f7d8" />
+
 - Select the firmware with hex code 0x0 & And select the Correct com Port
 <img width="427" height="689" alt="image" src="https://github.com/user-attachments/assets/74f4076c-3682-4ec0-8e16-a0a0cffa4baf" />
 
