@@ -2,7 +2,7 @@
 
 **Author:** dushyant.yadav0303
 **Date:** Jun 7, 2026, 6:27 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 2.3h
 
 ---
 
@@ -31,7 +31,7 @@ Today I am Working on the **ESP-12S Setup**
 
 **Author:** dushyant.yadav0303
 **Date:** Jun 6, 2026, 6:02 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 2.4h
 
 ---
 
@@ -56,7 +56,7 @@ Today I am Working on the **ATSAMD21 Setup Guide**
 
 **Author:** dushyant.yadav0303
 **Date:** Jun 5, 2026, 6:11 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 2.1h
 
 ---
 
@@ -82,7 +82,7 @@ Even it is simple but the Laptop 3d model I use have Too much detailing. which *
 
 **Author:** dushyant.yadav0303
 **Date:** Jun 4, 2026, 5:50 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 0.8h
 
 ---
 
@@ -107,7 +107,7 @@ Proof of Time **POT**: It take little bit longer than usual cause this project I
 
 **Author:** dushyant.yadav0303
 **Date:** Jun 3, 2026, 5:48 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 1.2h
 
 ---
 
@@ -145,7 +145,7 @@ Source - espressif
 
 **Author:** dushyant.yadav0303
 **Date:** Jun 2, 2026, 6:30 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 2.8h
 
 ---
 
@@ -166,7 +166,7 @@ Finally after spending two days To learn & Make this Render but the result are t
 
 **Author:** dushyant.yadav0303
 **Date:** Jun 1, 2026, 6:13 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 2.2h
 
 ---
 
@@ -181,7 +181,7 @@ Right now it is under Building And I don't want to disclose it right now It real
 
 **Author:** dushyant.yadav0303
 **Date:** May 31, 2026, 12:08 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 3.2h
 
 ---
 
@@ -210,7 +210,7 @@ Today I am Start Designing the case for the Devboard But this time I want it Hav
 
 **Author:** dushyant.yadav0303
 **Date:** May 30, 2026, 3:22 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 0.7h
 
 ---
 
@@ -227,7 +227,7 @@ After asking On #macondo-help For "Does i use oshwlab for Demo link" and they Al
 
 **Author:** dushyant.yadav0303
 **Date:** May 29, 2026, 4:52 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 2.4h
 
 ---
 
@@ -253,7 +253,7 @@ Also added Light in all the led You look more professional.
 
 **Author:** dushyant.yadav0303
 **Date:** May 28, 2026, 6:24 AM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 0.4h
 
 ---
 
@@ -277,7 +277,7 @@ And really scare me cause I not Save my Project, Then I start exploring EasyEDA 
 
 **Author:** dushyant.yadav0303
 **Date:** May 28, 2026, 6:09 AM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 1.8h
 
 ---
 
@@ -307,7 +307,7 @@ To make it Multi color I split it into 3 Part And this is my first time to doing
 
 **Author:** dushyant.yadav0303
 **Date:** May 26, 2026, 7:16 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 1.7h
 
 ---
 
@@ -333,7 +333,7 @@ Previously I just put Add Raw pads Which I short with a help of tweezer while fl
 
 **Author:** dushyant.yadav0303
 **Date:** May 26, 2026, 10:07 AM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 2.5h
 
 ---
 
@@ -353,7 +353,7 @@ For Copper pour the Net for top is Gnd and For Bottom Net is 3v.
 
 **Author:** dushyant.yadav0303
 **Date:** May 25, 2026, 4:46 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 1h
 
 ---
 
@@ -378,7 +378,7 @@ For Copper pour the Net for top is Gnd and For Bottom Net is 3v.
 
 **Author:** dushyant.yadav0303
 **Date:** May 24, 2026, 8:45 AM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 1.2h
 
 ---
 
@@ -395,7 +395,7 @@ Yesterday, i complete the Rough systematic, Today i am Adding Comment and Symbol
 
 **Author:** dushyant.yadav0303
 **Date:** May 23, 2026, 6:05 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 3.7h
 
 ---
 
@@ -418,7 +418,7 @@ Atsamd21e18A-AU datasheet
 
 **Author:** dushyant.yadav0303
 **Date:** May 22, 2026, 1:20 PM
-**Time Logged:** dushyant.yadav0303
+**Time Logged:** 1.6h
 
 ---
 
