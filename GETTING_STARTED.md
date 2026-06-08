@@ -78,12 +78,11 @@ Connect Devboard Usb Port Directly to your Pc
 ### Upload Firmware
 1. Connect the Board via [USB](#usb)
 
-2. Quickly press the RESET button twice 
-<img width=40% alt="image" src="https://github.com/user-attachments/assets/eb2d3f6d-9f3f-4946-8f52-bf036eba3d71" /> 
+2. Quickly press the RESET button twice
+3. 
+4. Prepare your firmware in .uf2
 
-3. Prepare your firmware in .uf2
-
-4. Paste your firmware in Detected External storage 
+5. Paste your firmware in Detected External storage 
 <img width="818" height="388" alt="20260606-1743-07 7803021" src="https://github.com/user-attachments/assets/23f23f05-d857-41ca-997a-91e4c60d457d" />
 
 
@@ -116,6 +115,8 @@ If not then Follow next [Flash Firmware](#flash-firmware)
 <img width="427" height="689" alt="image" src="https://github.com/user-attachments/assets/74f4076c-3682-4ec0-8e16-a0a0cffa4baf" />
 
 5. Esp-12s into Flash mode
+<img width="400" height="225" alt="0608" src="https://github.com/user-attachments/assets/a22c482b-37bf-4a4b-aad6-b6e6c358fe46" />
+
 - Press and hold the BOOT button
 - Press and release the RST button
 - Release the BOOT button
