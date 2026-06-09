@@ -22,8 +22,7 @@
   * [Flash Firmware](#flash-firmware)
 * [First Power-On Test](#first-power-on-test)
 * [Troubleshooting](#troubleshooting)
-* [Resources](#resources)
-
+* [What's Next?](#What's-Next?)
 
 
 ## Prerequisites
@@ -43,7 +42,7 @@
 Connect Devboard Usb Port Directly to your Pc
 <img width="80%" alt="0000-0052 (1)" src="https://github.com/user-attachments/assets/8231d235-bbe5-41cd-8905-ecb928ab9311" />
 
-
+###############
 ### SWD
 
 
@@ -53,9 +52,7 @@ Connect Devboard Usb Port Directly to your Pc
 - RX
 - GND
 
------------
------
-------
+###############
 
 
 ## ATSAMD21 Setup
@@ -77,11 +74,8 @@ Connect Devboard Usb Port Directly to your Pc
 
 ### Upload Firmware
 1. Connect the Board via [USB](#usb)
-
 2. Quickly press the RESET button twice
-3. 
 4. Prepare your firmware in .uf2
-
 5. Paste your firmware in Detected External storage 
 <img width="818" height="388" alt="20260606-1743-07 7803021" src="https://github.com/user-attachments/assets/23f23f05-d857-41ca-997a-91e4c60d457d" />
 
@@ -121,4 +115,78 @@ If not then Follow next [Flash Firmware](#flash-firmware)
 - Press and release the RST button
 - Release the BOOT button
 Then Click Start 
+
+
+
+
+## First Power-On Test
+First Power-On Test - It is a test To verify whether All the function in the they board are running properly. By flashing **Demo firmware** in Tiny drvboard.
+
+### Flashing demo firmware 
+- Download [Demo Firmware](...) from [Firmware directory](...) 
+- Connect the Board via [USB](#usb)
+- Quickly press the RESET button twice
+- Paste the Demo firmware in Devboard
+
+### Expected Behavior
+After uploaded the demo firmware The devboard Starts:
+- Rgb led animation
+- Wifi Module Status
+- Wifi Scan 
+- Serial print Status 
+
+### Expected Serial-Print 
+```text
+====================================================
+                  Tiny Devboard
+====================================================
+
+Firmware Version : v1.0.0
+Build Date       : 10 Jun 2026
+Author           : dushyant.yadav0303
+
+
+Welcome back hackers! It's me tiny devboard, 
+Initializing board services...
+
+- Starting rgb animation
+- Wifi module detected Successfully
+- Wifi scan Completed :
+1. Wifi SSID    |  -50 dBm
+
+```
+
+## Troubleshooting 
+
+### No Serial Output
+---------------------
+
+- Verify the USB cable supports data transfer.
+- Ensure the correct COM Port is selected.
+- Press the RESET button and reconnect the board. 
+
+### Wifi module not detected 
+----------------------------
+
+- [Verify the ESP-12S firmware](#check-existing-firmware) is installed.
+- Check the UART connection between the ATSAMD21 and ESP-12S.
+
+
+### RGB LED Not Working
+-----------------------
+
+- Verify the demo firmware was uploaded Properly.
+- Press the RESET button to restart the Script.
+
+
+## Still Need Help?
+If you're experiencing an issue that is not covered in this guide, 
+please open a GitHub Issue. 
+
+
+  
+## What's Next?
+Your board is now set up and ready for development.
+Now, It is Your Duty to begin creating your own Amazing Project using the Tiny Dev-Board, or explore & learn more about the board's capabilities.
+Happy hacking!
 
