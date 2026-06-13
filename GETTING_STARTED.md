@@ -42,17 +42,30 @@
 Connect Devboard Usb Port Directly to your Pc
 <img width="80%" alt="0000-0052 (1)" src="https://github.com/user-attachments/assets/8231d235-bbe5-41cd-8905-ecb928ab9311" />
 
-###############
 ### SWD
+> Note! - Set the USB to SWD TO 3.3v Logic 
 
+       Devboard                    Usb to SWD
+    ┌───────────────┐           ┌─────────────┐
+    │ SWDIO         ├──────────►│ SWDIO       │
+    │ SWCLK         ├──────────►│ SWCLK       │
+    │ 3V3           ├──────────►│ 3V3         │
+    │ GND           ├──────────►│ GND         │
+    └───────────────┘           └─────────────┘
+<img width="1686" height="471" alt="image" src="https://github.com/user-attachments/assets/18dfe6bc-ea7a-4e84-96ab-92603a22a738" />
 
 ### UART
-- Purpose
-- TX
-- RX
-- GND
+> Note! - Set the USB to TTL TO 3.3v Logic 
 
-###############
+       Devboard                    Usb to TTL
+    ┌─────────────┐             ┌─────────────┐
+    │          TX ├────────────►│ RX          │
+    │          RX │◄────────────┤ TX          │
+    │         GND ├────────────►│ GND         │
+    │        3.3v ├────────────►│ Vcc         │
+    └─────────────┘             └─────────────┘
+<img width="1076" height="357" alt="image" src="https://github.com/user-attachments/assets/bb5317fd-6cae-46b7-b136-ae1388bc15c7" />
+
 
 
 ## ATSAMD21 Setup
