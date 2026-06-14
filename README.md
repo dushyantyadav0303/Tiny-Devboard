@@ -25,23 +25,33 @@ A pocket-sized development board built for rapid prototyping, experimentation, a
   <a href="#bill-of-materials">BOM</a> •
   <a href="#license">License</a> •
   <a href="#credits">Credits</a>
-  <p align="center">
-  <a href="GETTING_STARTED/GETTING_STARTED.md">
-    <img src="https://img.shields.io/badge/Get%20Started-Open-green?style=for-the-badge.svg" />
-  </a>
-</p>
+</p>  
+<p
+  align="center">
+  <a href="GETTING_STARTED.md"> <img src="https://img.shields.io/badge/Get%20Started-Open-green?style=for-the-badge.svg" /> </a>
+
 </p>
 
 <br>
 <br>
 <p align=center>
-  <img width=80% alt="450016" src="https://github.com/user-attachments/assets/f321978d-a0c7-42ad-8e95-90d197f539ce" />
+  <img width=80% alt="450016" src="assets/f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
 </p>
 
 
 ## About the Project
 **Tiny Devboard** is a pocket-sized development board built for rapid prototyping, experimentation, and embedded systems development. Its compact USB form factor makes it easy to carry, plug in, and start building wherever inspiration strikes.
 
+### Specifications
+
+| Item | Details |
+|--------|---------|
+| MCU | ATSAMD21E18A-AU |
+| Wireless | ESP-12S |
+| USB | Type-A |
+| Logic Voltage | 3.3V |
+| RGB LED | APA102-2020 |
+| Programming | UF2 / SWD |
 
 ### Features
 
@@ -57,13 +67,15 @@ A pocket-sized development board built for rapid prototyping, experimentation, a
 - `src/cad/` — mechanical CAD sources
 - `production/pcb/` — PCB fabrication files (Gerbers, BOM, Pick & Place)
 - `production/cad/` — 3D-printing files (.3mf)
+- `Render/` for Render Sources
 - `GETTING_STARTED/` — Setup guides, firmware installation, and board bring-up documentation
 - `Journal/` — DevLogs With Timestamp
 - `Firmware/` — Demo firmware, utilities, and firmware releases for Tiny DevBoard
 
 
 ## Schematic
-Designed in ![Easyeda](https://img.shields.io/badge/easyeda-%2300578F.svg?style=for-the-badge&logo=easyeda&logoColor=white)
+Designed in ![Easyeda](https://img.shields.io/badge/easyeda-%2300578F.svg?style=for-the-badge&logo=easyeda&logoColor=white) 
+
 Source : `src/PCB/Schematic/`
 <img width=90%  alt="SCH_Schematic1_1-P1_2026-06-14" src="https://github.com/user-attachments/assets/046ea1c7-2858-4bc8-8734-da8fa1e9b404" />
 
@@ -79,3 +91,17 @@ Source : `src/PCB/Board/`
 </div>
 
 ## Cad
+- source: `production/cad/`
+<div align="center">
+  <table>
+    <tr>
+      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/de35c7ac-af3e-442f-b737-ed8cbb5fba5f" />
+</td>
+      <td valign="bottom"><img width=100% alt="I" src="https://github.com/user-attachments/assets/20f98c66-edf5-4abb-9771-9a19b16c05aa" />
+  </table>
+</div>
+
+## Render 
+- source: `Render/`
+<img width="1209" height="676" alt="Screenshot 2026-06-03 001020" src="https://github.com/user-attachments/assets/29f859c8-283f-40e5-84a0-65510b93ddb4" />
+
