@@ -74,7 +74,7 @@ A pocket-sized development board built for rapid prototyping, experimentation, a
 
 
 ## Schematic
-Designed in ![Easyeda](https://img.shields.io/badge/easyeda-%2300578F.svg?style=for-the-badge&logo=easyeda&logoColor=white) 
+[![EasyEDA](https://img.shields.io/badge/Designed%20in-EasyEDA-00578F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 
 Source : `src/PCB/Schematic/`
 <img width=90%  alt="SCH_Schematic1_1-P1_2026-06-14" src="https://github.com/user-attachments/assets/046ea1c7-2858-4bc8-8734-da8fa1e9b404" />
@@ -90,25 +90,84 @@ Source : `src/PCB/Board/`
 
 </div>
 
-## Cad
-- source: `production/cad/`
+## Cad 
+[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+
+
+A Encloser Case for Tiny Devboard. Case consists of 6 interlocking Hook that are secured them, allowing the enclosure to be assembled without screws or Glue makes it easy assembly.
+
+- source: `src/cad/`
 <div align="center">
-  <table>
-    <tr>
-      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/de35c7ac-af3e-442f-b737-ed8cbb5fba5f" />
+<table>
+<tr>
+<td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/de35c7ac-af3e-442f-b737-ed8cbb5fba5f" />
 </td>
-      <td valign="bottom"><img width=100% alt="I" src="https://github.com/user-attachments/assets/20f98c66-edf5-4abb-9771-9a19b16c05aa" />
-  </table>
+<td valign="bottom"><img width=100% alt="I" src="https://github.com/user-attachments/assets/20f98c66-edf5-4abb-9771-9a19b16c05aa" />
+</table>
 </div>
+
+### 3D-printable Production files are available in:
+- source: `production/cad/`
 
 ## Render 
+[![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
+
 - source: `Render/`
 <div align="center">
-  <table>
-    <tr>
-      <td valign="bottom"><img width=450px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
+<table>
+<tr>
+<td valign="bottom"><img width=450px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
 </td>
-      <td valign="bottom"><img width=450px alt="Image" src="https://github.com/user-attachments/assets/b612524b-9a15-463d-83fe-6ad1b9554bb5" />
-  </table>
+<td valign="bottom"><img width=450px alt="Image" src="https://github.com/user-attachments/assets/b612524b-9a15-463d-83fe-6ad1b9554bb5" />
+</table>
 </div>
 
+## Bill of Materials
+
+Source: `production/pcb/bom.csv`
+
+|No.|Quantity|Comment             |Designator         |Footprint                                |Value|LCSC Price (In USD)|
+|---|--------|--------------------|-------------------|-----------------------------------------|-----|-------------------|
+|1  |5       |10K                 |R1,R2,R3,R4,R6     |R0805                                    |10K  |0.0745             |
+|2  |1       |1.5k                |R7                 |R0805                                    |1.5k |0.01               |
+|3  |1       |10k                 |R5                 |R0805                                    |10k  |0.01               |
+|4  |2       |0                   |R8,R9              |R0603                                    |0    |0.02               |
+|5  |2       |0.1uF               |C5,C7              |C0805                                    |0.1uF|0.01               |
+|6  |1       |1uf                 |C1                 |C0603                                    |1uf  |0.01               |
+|7  |3       |10uF                |C3,C4,C6           |C0805                                    |10uF |0.04               |
+|8  |1       |100nF               |C8                 |C0805                                    |100nF|0.01               |
+|9  |2       |LED_0805-R          |LED3,LED4          |L0805                                    |     |0.02               |
+|10 |1       |AM90                |USB1               |USB-AM-TH_AM90                           |     |0.25               |
+|11 |1       |APA102-2020 SuperLED|U2                 |LED-SMD_6P-L2.0-W2.0-APA102-2020-SUPERLED|     |0.16               |
+|12 |1       |ATSAMD21E18A-AU     |U1                 |TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL         |     |1.4                |
+|13 |1       |ESP-12s             |U4                 |WIRELM-SMD_ESP-12S                       |     |1.7                |
+|14 |1       |HT7833              |U3                 |SOT-89_L4.5-W2.5-P1.50-LS4.2-BR          |     |0.16               |
+|15 |1       |ZX-PZ1.0-1-6PZZ     |Gn +3 Rx Tx Clk Dio|HDR-TH_6P-P1.00-V-F                      |     |0.01               |
+|16 |3       |TSA010A2518A        |BOOT,SW1,SW2       |SW-SMD_L4.0-W3.0-LS5.0                   |     |                   |
+|17 |1       |PCB                 |                   |                                         |     |2$ From Jlcpcb     |
+
+
+
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions, improvements, and remixes are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
+
+
+## Credits
+<div align="center">
+  
+[![EasyEDA](https://img.shields.io/badge/Designed%20in-EasyEDA-00578F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
+[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+[![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org) 
+
+</div>
+
+This project uses:
+- **[EasyEDA](https://www.blender.org)** - PCB design and schematic capture
+- **[Fusion 360](https://www.autodesk.com/products/fusion-360)** - Cad Designing
+- **[Blender](https://www.blender.org)** - Render
+- **[@NotARoomba](https://github.com/notaroomba) & [@Gabouin](https://github.com/Gabouin)** - Readme template
