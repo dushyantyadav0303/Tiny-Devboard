@@ -116,9 +116,9 @@ A Encloser Case for Tiny Devboard. Case consists of 6 interlocking Hook that are
 <div align="center">
 <table>
 <tr>
-<td valign="bottom"><img width=450px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
+<td valign="bottom"><img width=350px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
 </td>
-<td valign="bottom"><img width=450px alt="Image" src="https://github.com/user-attachments/assets/b612524b-9a15-463d-83fe-6ad1b9554bb5" />
+<td valign="bottom"><img width=350px alt="Image" src="https://github.com/user-attachments/assets/b612524b-9a15-463d-83fe-6ad1b9554bb5" />
 </table>
 </div>
 
