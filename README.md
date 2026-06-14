@@ -103,5 +103,11 @@ Source : `src/PCB/Board/`
 
 ## Render 
 - source: `Render/`
-<img width="1209" height="676" alt="Screenshot 2026-06-03 001020" src="https://github.com/user-attachments/assets/29f859c8-283f-40e5-84a0-65510b93ddb4" />
-
+<div align="center">
+  <table>
+    <tr>
+      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/29f859c8-283f-40e5-84a0-65510b93ddb4" />
+</td>
+      <td valign="bottom"><img width=100% alt="Image" src="https://cdn.hackclub.com/019e9d94-b583-7b67-a21d-aa6813a41b2f/0000-0055.gif" />
+  </table>
+</div>
