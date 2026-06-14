@@ -35,7 +35,7 @@ A pocket-sized development board built for rapid prototyping, experimentation, a
 <br>
 <br>
 <p align=center>
-  <img width=80% alt="450016" src="assets/f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
+  <img width=80% src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
 </p>
 
 
