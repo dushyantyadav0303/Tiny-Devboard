@@ -106,8 +106,9 @@ Source : `src/PCB/Board/`
 <div align="center">
   <table>
     <tr>
-      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/29f859c8-283f-40e5-84a0-65510b93ddb4" />
+      <td valign="bottom"><img width=450px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
 </td>
-      <td valign="bottom"><img width=100% alt="Image" src="https://cdn.hackclub.com/019e9d94-b583-7b67-a21d-aa6813a41b2f/0000-0055.gif" />
+      <td valign="bottom"><img width=450px alt="Image" src="https://github.com/user-attachments/assets/b612524b-9a15-463d-83fe-6ad1b9554bb5" />
   </table>
 </div>
+
