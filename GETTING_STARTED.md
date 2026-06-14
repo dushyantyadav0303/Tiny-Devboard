@@ -40,7 +40,7 @@
 
 ### USB
 Connect Devboard Usb Port Directly to your Pc
-<img width="80%" alt="0000-0052 (1)" src="https://github.com/user-attachments/assets/8231d235-bbe5-41cd-8905-ecb928ab9311" />
+<img width="80%" alt="0000-0052 (1)" src="https://github.com/user-attachments/assets/8231d235-bbe5-41cd-8905-ecb928ab9311.gif" />
 
 ### SWD
 > Note! - Set the USB to SWD TO 3.3v Logic 
