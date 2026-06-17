@@ -138,7 +138,7 @@ Then Click Start
 First Power-On Test - It is a test To verify whether All the function in the they board are running properly. By flashing **Demo firmware** in Tiny drvboard.
 
 ### Flashing demo firmware 
-- Download [Demo Firmware](...) from [Firmware directory](...) 
+- Download [Demo Firmware](Firmware/Demo_Firmware.ino) from [Firmware directory](Firmware/Firmware.md) 
 - Connect the Board via [USB](#usb)
 - Quickly press the RESET button twice
 - Paste the Demo firmware in Devboard
@@ -152,22 +152,37 @@ After uploaded the demo firmware The devboard Starts:
 
 ### Expected Serial-Print 
 ```text
-====================================================
-                  Tiny Devboard
-====================================================
+=============================================
+                 Tiny Devboard
+=============================================
+ Firmware Version : v1.0.0
+ Build Date       : 10 Jun 2026
+ Author           : dushyant.yadav0303
 
-Firmware Version : v1.0.0
-Build Date       : 10 Jun 2026
-Author           : dushyant.yadav0303
-
-
-Welcome back hackers! It's me tiny devboard, 
-Initializing board services...
+Hola Hackers! It's me tiny devboard
+Tiny DevBoard is starting up...
 
 - Starting rgb animation
-- Wifi module detected Successfully
-- Wifi scan Completed :
-1. Wifi SSID    |  -50 dBm
+- Checking USB connection
+
+Resetting Wifi module ...
+ - Wifi module detected Successfully
+
+
+=======================================
+System Information
+=======================================
+Board Name    : Tiny Devboard
+MCU           : ATSAMD21E18A-AU
+CPU Frequency : 48 MHz
+Flash Memory  : 256 KB
+SRAM Memory   : 32 KB
+
+ - Wifi module detected Successfully
+
+=========================================
+ Board ready to Rock!
+=========================================
 
 ```
 
