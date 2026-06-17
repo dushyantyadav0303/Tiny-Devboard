@@ -73,7 +73,6 @@ A pocket-sized development board built for rapid prototyping, experimentation, a
 - `src/cad/` — mechanical CAD sources
 - `production/pcb/` — PCB fabrication files (Gerbers, BOM, Pick & Place)
 - `production/cad/` — 3D-printing files (.3mf)
-- `Render/` for Render Sources
 - `GETTING_STARTED/` — Setup guides, firmware installation, and board bring-up documentation
 - `Journal/` — DevLogs With Timestamp
 - `Firmware/` — Demo firmware, utilities, and firmware releases for Tiny DevBoard
@@ -118,7 +117,6 @@ A Encloser Case for Tiny Devboard. Case consists of 6 interlocking Hook that are
 ## Render 
 [![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
 
-- source: `Render/`
 <div align="center">
 <table>
 <tr>
