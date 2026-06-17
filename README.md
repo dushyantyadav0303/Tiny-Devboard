@@ -82,11 +82,11 @@ A pocket-sized development board built for rapid prototyping, experimentation, a
 ## Schematic
 [![EasyEDA](https://img.shields.io/badge/Designed%20in-EasyEDA-00578F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 
-Source : `src/PCB/Schematic/`
+Source : `src/PCB/Sch`
 <img width=90%  alt="SCH_Schematic1_1-P1_2026-06-14" src="https://github.com/user-attachments/assets/046ea1c7-2858-4bc8-8734-da8fa1e9b404" />
 
 ## PCB 
-Source : `src/PCB/Board/`
+Source : `src/PCB/Pcb`
 <div align="center">
 
 | Front PCB | Back PCB |
@@ -130,7 +130,7 @@ A Encloser Case for Tiny Devboard. Case consists of 6 interlocking Hook that are
 
 ## Bill of Materials
 
-Source: `production/pcb/bom.csv`
+Source: `production/pcb/bom.xlsx`
 
 |No.|Quantity|Comment             |Designator         |Footprint                                |Value|Price (exc Taxes)  |
 |---|--------|--------------------|-------------------|-----------------------------------------|-----|-------------------|
