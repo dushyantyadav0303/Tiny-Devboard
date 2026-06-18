@@ -1,3 +1,40 @@
+# Thank you!
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** N/A
+
+---
+
+# This is not just a project. It teaches me lot of Skills, Mistakes & Way of Thinking.
+
+# Also I love Show and tell
+
+![image](https://cdn.hackclub.com/019ed7ad-7cf0-77e1-9309-9c6d22570f6c/image.png)
+
+### Also I want to thanks my motivators, that Motivate me Across the journey-
+
+# @Gabin
+
+![image](https://cdn.hackclub.com/019ed7a8-8fce-7901-baaf-5eaaa2e20db4/image.png)
+
+# @NotARoomba
+
+![image](https://cdn.hackclub.com/019ea687-cd6a-72ae-8e20-a773c73e41f8/image.png)
+
+![image](https://cdn.hackclub.com/019ea687-4e94-754b-87bc-c0a243159e77/image.png)
+
+# @Rohan
+
+![image](https://cdn.hackclub.com/019ea689-9a15-781e-b8a4-090933d91bd3/image.png)
+
+![image](https://cdn.hackclub.com/019ea689-a8e7-7ae6-acf6-c87bf965bb30/image.png)
+
+![image](https://cdn.hackclub.com/019ea68a-7801-72f2-9345-44fd49aa9ab6/image.png)
+
+
+---
+
 # Completed Repo!
 
 **Author:** dushyant.yadav0303
@@ -780,3 +817,5 @@ Both processor with the Serial communication protocol,
 Sorry, I created a little bit of image But it is not important believe me.
 
 ![image](https://cdn.hackclub.com/019e4fd7-a23f-7a13-a779-bf9ffe1afdcf/image.png)
+
+python extract_journals.py input.html
