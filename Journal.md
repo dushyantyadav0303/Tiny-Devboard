@@ -1,7 +1,350 @@
+# Completed Repo!
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 1.1h
+
+---
+
+## Today, I finalize the github Repo
+
+- Starting with CONTRIBUTING.md
+
+![image](https://cdn.hackclub.com/019ed79b-ac18-7311-962e-d83ed75aecd0/image.png)
+
+- Then Uploaded SRC and Production Files
+
+![image](https://cdn.hackclub.com/019ed79d-511b-7ffc-9609-b768f2db4daa/image.png)
+
+- Then Made the Journal.md which include all the Journal I Logged At Macondo Platform
+Uploaded Soon!
+
+
+---
+
+# Firmware
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** N/A
+
+---
+
+# Note : Firmware Time is Tracked via Hackatime
+
+# Today, I Start Working on Firmware part Which include:
+
+- Demo Firmware
+
+- Firmware.md
+
+![image](https://cdn.hackclub.com/019ed736-84fd-746e-a346-d0b493177d54/image.png)
+
+## Demo Firmware - is a demo firmware for the Tiny DevBoard development board Testing, Diagnosing and Check there Capability.
+
+### Tests
+
+- Rgb led animation
+
+- Wifi Module Status
+
+- Wifi Scan
+
+- Serial print stasis
+
+![image](https://cdn.hackclub.com/019ed737-3d31-7169-b0fd-c7f7a378832e/image.png)
+
+## Firmware.md- is a Guild For Flashing Firmware includes:
+
+- Install Library
+
+- Install Board
+
+- Workflow
+
+- Code architecture
+
+
+---
+
+# Readme Completed!
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 0.4h
+
+---
+
+Today, I Work on the Remaining Over work in Readme.md
+
+- Added the BOM
+
+![image](https://cdn.hackclub.com/019ed0a1-4ff5-7166-afc4-e88a4adf72ba/Screenshot%202026-06-16%20185424.png)
+
+- Added the License + Contributing + Credits
+
+![image](https://cdn.hackclub.com/019ed0a4-948c-7a05-bb9f-bba5e3a44d73/Screenshot%202026-06-16%20185440.png)
+
+
+---
+
+# Readme #4
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 1h
+
+---
+
+# Today, I start with Creating the Badges
+
+## I useshieldsto Create badges.
+
+### Here is For easyeda
+
+![image](https://cdn.hackclub.com/019ecad3-bdad-7bde-b6f9-c770162bbef3/Designed%20in-EasyEDA-00578F.svg)
+
+### Here is For Fusion360
+
+![image](https://cdn.hackclub.com/019ecad4-4b10-77b4-a8a5-0b4b356dac2b/CAD%20in-Fusion%20360-orange.svg)
+
+### Here is For Blender
+
+![image](https://cdn.hackclub.com/019ecad5-3620-788b-a56e-9444e40477c0/Rendered%20in-Blender-F5792A.svg)
+
+### It looks Simple, And it is Simple but not For the Hackclub Macondo Badge cause of logo and Color blending. I not gonna lie it Takes 1.2hr just for Hackclub badge but I don't have Lapse So i Not Adding it. Otherwise it Might be Inflated
+
+![image](https://cdn.hackclub.com/019ecaca-4d92-7fb9-8b26-e98994d1c5e4/image.png)
+
+### Anyway Enjoy the Macondo Badge
+
+![image](https://cdn.hackclub.com/019ecad2-da26-7524-a9c7-651c44ec52cd/Hack%20Club-%F0%9F%A6%8BMacondo-FFC800.svg)
+
+### Readme.md
+
+![image](https://cdn.hackclub.com/019ecacf-4f0a-7102-9cbf-988235307186/image.png)
+
+![image](https://cdn.hackclub.com/019ecad0-2a81-7616-a866-393a8dc29d7f/image.png)
+
+![image](https://cdn.hackclub.com/019ecad0-35df-7cbc-a873-79036344a3b4/image.png)
+
+![image](https://cdn.hackclub.com/019ecad0-4374-7570-896e-bbe6fe4cc4c8/image.png)
+
+
+---
+
+# Readme #3
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 1.2h
+
+---
+
+# Today I start working on my ProjectReadme.md
+
+### I started with Adding specification Of Tiny-Devboard In About Section
+
+![image](https://cdn.hackclub.com/019ec64b-cb39-7cb5-bead-ac6b976a2302/image.png)
+
+### I Added the PCB Image with and Without Silkscreen
+
+![image](https://cdn.hackclub.com/019ec64c-9cd2-70bd-b534-866542a4bd1a/image.png)
+
+### Next I added The Cad and Render Also plus I try a Alot to Auto play the Gif but It is Not AutoPlay.
+
+![image](https://cdn.hackclub.com/019ec712-a342-71fa-a258-c96af9d1747f/20260614-1657-16.8173670.gif)
+
+
+---
+
+# ‎ ‎Yeah! I win Show and Tell #5
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** N/A
+
+---
+
+# Yeah! I win Show and Tell #5 For This project.
+
+### It's my First Time Attending show and tell, And it is very wonderful experience To see other project & Effort & show our project plus I'm nervous to show my project.
+
+### After the voting ended, It's time to announce the final winner.
+
+### Then I heard My Project Name -Tiny DevBoard
+
+## Winning was an surprise and memorable moment for me. Thank you to everyone who supported and voted for the project!.
+
+![image](https://cdn.hackclub.com/019ec2a2-7173-718c-9964-720a835baef2/image.png)
+
+
+---
+
+# ‎ ‎‎Readme #2
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 1h
+
+---
+
+# Today I start working on my ProjectReadme.md
+
+## About the Project
+
+- First I work on About the project Which Includes Project name and Description. Next I added All the Features of the Devboard
+Here Is Readme.md
+
+![image](https://cdn.hackclub.com/019ec610-ed5e-7273-919f-78d8aaf0ff05/image.png)
+
+- Then I Added the systematic of the PCB including Sorce
+Here Is Readme.md
+
+![image](https://cdn.hackclub.com/019ec612-2c83-73ed-9d47-260924163c77/image.png)
+
+
+---
+
+# ‎ ‎‎Readme #1
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 1.9h
+
+---
+
+Today I start working on my Project Readme.md
+
+- I started with preparing Board logo
+
+- First I make a design in Fusion 360 in which the Base is Going to Be Matte Black and Logo In Golden Color
+
+### Here is 3D model:
+
+![image](https://cdn.hackclub.com/019ec2d1-32a7-7201-b6bf-35aafbb1de00/image.png)
+
+- Then I Render the 3d model
+
+### Here is the final logo
+
+![image](https://cdn.hackclub.com/019ec2d4-ed37-7545-bd4e-3c57c3b9d326/Untitled.png)
+
+- Then I add it Into the Readme
+
+- Also add Toc, Badges, Banner & Description Into the Readme.
+
+### Here isReadme.md
+
+![image](https://cdn.hackclub.com/019ec2e6-26f5-72f8-8fc4-8a74b6748f5d/20260613-2131-12.6929112.gif)
+
+
+---
+
+# ‎ ‎‎Getting Started Completed!
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 0.9h
+
+---
+
+## Today, I Add Connection Diagram & RecheckGetting-Started.md
+
+- First I Make the Connection Diagram In Figma  For the Uart and Swd Communication.
+
+### Here I added the Diagram :
+
+![image](https://cdn.hackclub.com/019ec119-6bd9-747e-bc59-3e4a971b5a80/image.png)
+
+- Then I recheck all the things And here we go We finally complete our getting started file At the end I can say It is too much Polish And best for beginners.
+
+
+---
+
+# Getting Started #5
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 1.4h
+
+---
+
+Today, I work on **First Power-On Test** & **Troubleshooting**
+
+- I added **the First Power-On Test** To quickly test The tiny devboard And diagnose the issue.
+
+- Then I added **Troubleshooting** In which I added all the Possible Issue But still if it not there Then they can just Issue on github
+
+- Really it is too Beginner friendly!
+
+# Here is Getting Started:
+
+![image](https://cdn.hackclub.com/019eae8c-cc72-72ef-8636-7621895a7534/image.png)
+
+![image](https://cdn.hackclub.com/019eae8c-39c0-7d54-8b90-daf53dc2d273/image.png)
+
+
+---
+
+# weekly journal
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** N/A
+
+---
+
+### Yah!!! We Again Get into weekly journal. It really Motivates me for building more crazy project.
+
+Thank you! @Gabin
+
+![image](https://cdn.hackclub.com/019ea685-22ca-7651-a912-5427596528c6/image.png)
+
+
+---
+
+# Getting Started #4
+
+**Author:** dushyant.yadav0303
+**Date:** 
+**Time Logged:** 2.6h
+
+---
+
+Today, I Make a **Render Animation** to Show how to Put **Esp-12s into Flashing Mode**.
+
+Basically we have to put Esp-12s into flashing mode Before uploading the firmware.
+
+### How to do it -
+
+- Press and hold the BOOT button
+
+- Press and release the RST button
+
+- Release the BOOT button
+
+Which is little Confusing for the **beginner/Non-technical person**, cause There is **2 Reset Button** on the board. For that I prepared the animation In **Blender**.
+
+## Setup
+
+![image](https://cdn.hackclub.com/019ea474-edad-72e0-bede-4b3e2fbd4316/20260607-2337-44.2436507.gif)
+
+## Render
+
+![image](https://cdn.hackclub.com/019ea43d-9a2a-74b4-b290-20c5dfb4f43d/0608.gif)
+
+## Here is Getting Started:
+
+![image](https://cdn.hackclub.com/019ea47d-000f-73f6-8b44-c6f3a87cd7c8/20260607-2346-54.5049504.gif)
+
+
+---
+
 # Getting Started #3
 
 **Author:** dushyant.yadav0303
-**Date:** Jun 7, 2026, 6:27 PM
+**Date:** 
 **Time Logged:** 2.3h
 
 ---
@@ -30,7 +373,7 @@ Today I am Working on the **ESP-12S Setup**
 # Getting Started #2
 
 **Author:** dushyant.yadav0303
-**Date:** Jun 6, 2026, 6:02 PM
+**Date:** 
 **Time Logged:** 2.4h
 
 ---
@@ -55,7 +398,7 @@ Today I am Working on the **ATSAMD21 Setup Guide**
 # Getting Started  #1
 
 **Author:** dushyant.yadav0303
-**Date:** Jun 5, 2026, 6:11 PM
+**Date:** 
 **Time Logged:** 2.1h
 
 ---
@@ -81,7 +424,7 @@ Even it is simple but the Laptop 3d model I use have Too much detailing. which *
 # Adding Programming Pin
 
 **Author:** dushyant.yadav0303
-**Date:** Jun 4, 2026, 5:50 PM
+**Date:** 
 **Time Logged:** 0.8h
 
 ---
@@ -106,7 +449,7 @@ Proof of Time **POT**: It take little bit longer than usual cause this project I
 # Firmware
 
 **Author:** dushyant.yadav0303
-**Date:** Jun 3, 2026, 5:48 PM
+**Date:** 
 **Time Logged:** 1.2h
 
 ---
@@ -144,7 +487,7 @@ Source - espressif
 # Completed Render animation (banner)
 
 **Author:** dushyant.yadav0303
-**Date:** Jun 2, 2026, 6:30 PM
+**Date:** 
 **Time Logged:** 2.8h
 
 ---
@@ -165,7 +508,7 @@ Finally after spending two days To learn & Make this Render but the result are t
 # Making Render animation
 
 **Author:** dushyant.yadav0303
-**Date:** Jun 1, 2026, 6:13 PM
+**Date:** 
 **Time Logged:** 2.2h
 
 ---
@@ -180,7 +523,7 @@ Right now it is under Building And I don't want to disclose it right now It real
 # CAD
 
 **Author:** dushyant.yadav0303
-**Date:** May 31, 2026, 12:08 PM
+**Date:** 
 **Time Logged:** 3.2h
 
 ---
@@ -209,7 +552,7 @@ Today I am Start Designing the case for the Devboard But this time I want it Hav
 # Posted On oshwlab
 
 **Author:** dushyant.yadav0303
-**Date:** May 30, 2026, 3:22 PM
+**Date:** 
 **Time Logged:** 0.7h
 
 ---
@@ -226,7 +569,7 @@ After asking On #macondo-help For "Does i use oshwlab for Demo link" and they Al
 # Render
 
 **Author:** dushyant.yadav0303
-**Date:** May 29, 2026, 4:52 PM
+**Date:** 
 **Time Logged:** 2.4h
 
 ---
@@ -252,7 +595,7 @@ Also added Light in all the led You look more professional.
 # Recover your Project
 
 **Author:** dushyant.yadav0303
-**Date:** May 28, 2026, 6:24 AM
+**Date:** 
 **Time Logged:** 0.4h
 
 ---
@@ -276,7 +619,7 @@ And really scare me cause I not Save my Project, Then I start exploring EasyEDA 
 # Silkscreen
 
 **Author:** dushyant.yadav0303
-**Date:** May 28, 2026, 6:09 AM
+**Date:** 
 **Time Logged:** 1.8h
 
 ---
@@ -306,7 +649,7 @@ To make it Multi color I split it into 3 Part And this is my first time to doing
 # Optimizing space & Changing Footprint
 
 **Author:** dushyant.yadav0303
-**Date:** May 26, 2026, 7:16 PM
+**Date:** 
 **Time Logged:** 1.7h
 
 ---
@@ -332,7 +675,7 @@ Previously I just put Add Raw pads Which I short with a help of tweezer while fl
 # Routing the PCB
 
 **Author:** dushyant.yadav0303
-**Date:** May 26, 2026, 10:07 AM
+**Date:** 
 **Time Logged:** 2.5h
 
 ---
@@ -352,7 +695,7 @@ For Copper pour the Net for top is Gnd and For Bottom Net is 3v.
 # Layout the PCB
 
 **Author:** dushyant.yadav0303
-**Date:** May 25, 2026, 4:46 PM
+**Date:** 
 **Time Logged:** 1h
 
 ---
@@ -377,7 +720,7 @@ For Copper pour the Net for top is Gnd and For Bottom Net is 3v.
 # Streamline Systematic
 
 **Author:** dushyant.yadav0303
-**Date:** May 24, 2026, 8:45 AM
+**Date:** 
 **Time Logged:** 1.2h
 
 ---
@@ -394,7 +737,7 @@ Yesterday, i complete the Rough systematic, Today i am Adding Comment and Symbol
 # Prepare systematic
 
 **Author:** dushyant.yadav0303
-**Date:** May 23, 2026, 6:05 PM
+**Date:** 
 **Time Logged:** 3.7h
 
 ---
@@ -417,7 +760,7 @@ Atsamd21e18A-AU datasheet
 # Research
 
 **Author:** dushyant.yadav0303
-**Date:** May 22, 2026, 1:20 PM
+**Date:** 
 **Time Logged:** 1.6h
 
 ---
