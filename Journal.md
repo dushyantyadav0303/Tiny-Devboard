@@ -1,7 +1,170 @@
+# printed case
+
+
+
+**Author:** dushyant.yadav0303
+ 
+**Time Logged:** 0.2h
+
+---
+# yoooooo gng,
+## Finally I received the 3D printer
+```
+ \^o^/ 
+```
+
+## Second I print was this tiny devboard case because first was Benchy {I was follow the Traditional activity} 
+### next i click few photo of it.
+![image](https://cdn.hackclub.com/019fe08e-d6c8-7eb2-9a55-4853009d38cc/image.png)
+![image](https://cdn.hackclub.com/019fe08f-7ad6-7a28-80c7-278501292d86/image.png)
+![image](https://cdn.hackclub.com/019fe08f-0f74-7be4-9a8c-4c4b1ef6f750/image.png)
+# Now I proudly say it is completed.
+## Now just making a demo video and updating the repo left
+
+
+---
+
+
+
+# Uploading  Firmware + Troubleshoot
+
+
+
+**Author:** dushyant.yadav0303
+ 
+**Time Logged:** 1.2h
+---
+## hola gng I'm working with firmware flashing in which i am totally following the same Instructions that I given in [Getting Started](https://github.com/dushyantyadav0303/Tiny-Devboard/blob/main/GETTING_STARTED.md)
+## there is some mistake in Pin define which I fixed 
+## here you see my setup (the black chip was a USB to TTL converter)
+![image](https://cdn.hackclub.com/019fbcf7-1c73-7d2c-b014-e6041082f33b/image_2026-08-01_162536304.png)
+
+
+---
+
+
+
+# Soldering
+
+
+
+**Author:** dushyant.yadav0303
+ 
+**Time Logged:** 
+
+---
+# Yooo! today I'm doing the Assembly or you say Soldering of all the Component 
+## First I sort all the Component {Why Robu.in not Mention the Value on Package :( } 
+## Next i Printout the BOM & PCB image and stick all the component Respectively on it vv
+![image](https://cdn.hackclub.com/019fbccf-faea-7b28-a5db-c2a28e5a7329/image.png)
+## Next i Collect all the Equipment and cover my desk with Paper (otherwise my mom will beat me lol)
+![image](https://cdn.hackclub.com/019fbcd4-d24d-7f86-93a8-c50936d42664/image.png)
+# now ready for soldering !
+### It is kinda Difficult to solder tiny component with out Microscope 
+## also I lost my Precise Tweezer /_ \
+### which make it more difficult. I bend the diode legs and use it as tweezer
+## after Hella of time i Finally solder up the component 
+![image](https://cdn.hackclub.com/019fbcdf-5496-763f-93bd-89d1046e8e49/image.png)
+![image](https://cdn.hackclub.com/019fbce2-f018-774a-bdba-db442ca92272/image.png)
+## Next i hide dogesh logo with MCU finally and completed the board
+
+
+---
+
+
+# what happen to my order?
+
+
+
+**Author:** dushyant.yadav0303
+ 
+**Time Logged:** 
+
+---
+# hello 
+## It's almost a month from last update "Order all the Component" 
+## Here is good news I Receiver 2/3 order 
+## which Include:
+- Components
+![image](https://cdn.hackclub.com/019f96da-b561-7255-a345-7704e9b83515/WhatsApp%20Image%202026-06-29%20at%2012.31.23%20PM.jpeg)
+- PCB
+![image](https://cdn.hackclub.com/019f96dc-e17d-7331-8b24-8993459b19c4/Screenshot%202026-07-25%20065028.png)
+# Now what happen to my 3/3 order
+## I order it from lions Circuit, there are importing component to india and Domestically deliver in India.
+## I get an update on 23 that "your order get lost in transit, We'll Initiate your refund in few days"
+![image](https://cdn.hackclub.com/019f96e5-184b-7253-b5bd-9991087104ca/image.png)
+# Not the Biggest problem comes How I get this MCU now !!!!
+## lions Circuit is the one on that i trust. also Mouser and digikey are trust but not good price for single pcs order- shipping fee is more than product price.
+# After 3-5 hours of researching,
+### i not find any store where i get this ╯︿╰ 
+### good news this same Ic use in Adafruit QT Py devboard.
+### so my planning to Do transplant surgery. hehehehe
+## I ordered that board:
+![image](https://cdn.hackclub.com/019f96ef-f59d-745c-8413-004762e1a2b0/image.png)
+
+
+---
+
+
+# Order all the Component.
+
+
+
+**Author:** dushyant.yadav0303
+ 
+**Time Logged:** 1.4h
+
+---
+# Yesterday{sorry I'm late}, I order all the Component.
+## Sound easy, But not For India Cause many Item are Not Available Or Over Price, Importing from Abroad It's kinda risky. Cause Custom Duty/Taxes Are Unpredictable.
+### I'm Splitting product list in three parts - Available & Alternative
+# Available
+- Micro component like Resister, capacitors & led is Easily available And I order from [Robu.in](https://robu.in)
+![image](https://cdn.hackclub.com/019f06c6-1d3e-70c4-85c9-d653c31ab1f9/image.png)
+- MCU -> 1. Esp 12s Is easily available from [Robu.in](https://robu.in) but
+ 2. ATSAMD21 Is Little bit expensive + Only available on one store [lioncircuits](https://www.lioncircuits.com)
+![image](https://cdn.hackclub.com/019f06c2-e696-7935-9d10-fd9585097ff3/image.png)
+# Alternative 
+
+### A90 USB isn't Available in India 
+![image](https://cdn.hackclub.com/019f06cc-91b9-79a5-9827-3001dba17218/image.png)
+
+### After exploring a market a lot I finally get The alternative with the same dimensions but It is ****expensive****.
+![image](https://cdn.hackclub.com/019f06ce-3457-71b2-9e76-2a896a919f24/image.png)
+
+### After spending a lot more time I finally get The same dimension and the cheaper option
+![image](https://cdn.hackclub.com/019f06cf-dc0d-7436-b65a-9501eb0de1fb/image.png)
+
+
+---
+
+
+
+
+# Order PCB!
+
+**Author:** dushyant.yadav0303
+ 
+**Time Logged:** 0.5h
+
+---
+
+## While I'm ordering the PCB I found that The USB footprint Interrupting the PCB Border outline
+![image](https://cdn.hackclub.com/019f06d8-dff7-7dce-a058-23b59ff7af69/image.png)
+## So before ordering it I fix the footprint And Update it on Github 
+![image](https://cdn.hackclub.com/019f06db-3f89-71ed-820f-70ffdfa99207/Screenshot%202026-06-27%20074345.png)
+## Place the order From [jlcpcb](https://jlcpcb.com)
+![image](https://cdn.hackclub.com/019f06dd-4e21-788f-84c2-44c38bbbe6f6/image.png)
+
+---
+
+
+
+
 # Thank you!
 
 **Author:** dushyant.yadav0303
-**Date:** 
+
 **Time Logged:** N/A
 
 ---
@@ -38,7 +201,7 @@
 # Completed Repo!
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.1h
 
 ---
@@ -62,7 +225,7 @@ Uploaded Soon!
 # Firmware
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** N/A
 
 ---
@@ -107,7 +270,7 @@ Uploaded Soon!
 # Readme Completed!
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 0.4h
 
 ---
@@ -128,7 +291,7 @@ Today, I Work on the Remaining Over work in Readme.md
 # Readme #4
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1h
 
 ---
@@ -173,7 +336,7 @@ Today, I Work on the Remaining Over work in Readme.md
 # Readme #3
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.2h
 
 ---
@@ -198,7 +361,7 @@ Today, I Work on the Remaining Over work in Readme.md
 # ‎ ‎Yeah! I win Show and Tell #5
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** N/A
 
 ---
@@ -221,7 +384,7 @@ Today, I Work on the Remaining Over work in Readme.md
 # ‎ ‎‎Readme #2
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1h
 
 ---
@@ -246,7 +409,7 @@ Here Is Readme.md
 # ‎ ‎‎Readme #1
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.9h
 
 ---
@@ -281,7 +444,7 @@ Today I start working on my Project Readme.md
 # ‎ ‎‎Getting Started Completed!
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 0.9h
 
 ---
@@ -302,7 +465,7 @@ Today I start working on my Project Readme.md
 # Getting Started #5
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.4h
 
 ---
@@ -327,7 +490,7 @@ Today, I work on **First Power-On Test** & **Troubleshooting**
 # weekly journal
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** N/A
 
 ---
@@ -344,7 +507,7 @@ Thank you! @Gabin
 # Getting Started #4
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.6h
 
 ---
@@ -381,7 +544,7 @@ Which is little Confusing for the **beginner/Non-technical person**, cause There
 # Getting Started #3
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.3h
 
 ---
@@ -410,7 +573,7 @@ Today I am Working on the **ESP-12S Setup**
 # Getting Started #2
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.4h
 
 ---
@@ -435,7 +598,7 @@ Today I am Working on the **ATSAMD21 Setup Guide**
 # Getting Started  #1
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.1h
 
 ---
@@ -461,7 +624,7 @@ Even it is simple but the Laptop 3d model I use have Too much detailing. which *
 # Adding Programming Pin
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 0.8h
 
 ---
@@ -486,7 +649,7 @@ Proof of Time **POT**: It take little bit longer than usual cause this project I
 # Firmware
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.2h
 
 ---
@@ -524,7 +687,7 @@ Source - espressif
 # Completed Render animation (banner)
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.8h
 
 ---
@@ -545,7 +708,7 @@ Finally after spending two days To learn & Make this Render but the result are t
 # Making Render animation
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.2h
 
 ---
@@ -560,7 +723,7 @@ Right now it is under Building And I don't want to disclose it right now It real
 # CAD
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 3.2h
 
 ---
@@ -589,7 +752,7 @@ Today I am Start Designing the case for the Devboard But this time I want it Hav
 # Posted On oshwlab
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 0.7h
 
 ---
@@ -606,7 +769,7 @@ After asking On #macondo-help For "Does i use oshwlab for Demo link" and they Al
 # Render
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.4h
 
 ---
@@ -632,7 +795,7 @@ Also added Light in all the led You look more professional.
 # Recover your Project
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 0.4h
 
 ---
@@ -656,7 +819,7 @@ And really scare me cause I not Save my Project, Then I start exploring EasyEDA 
 # Silkscreen
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.8h
 
 ---
@@ -686,7 +849,7 @@ To make it Multi color I split it into 3 Part And this is my first time to doing
 # Optimizing space & Changing Footprint
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.7h
 
 ---
@@ -712,7 +875,7 @@ Previously I just put Add Raw pads Which I short with a help of tweezer while fl
 # Routing the PCB
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 2.5h
 
 ---
@@ -732,7 +895,7 @@ For Copper pour the Net for top is Gnd and For Bottom Net is 3v.
 # Layout the PCB
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1h
 
 ---
@@ -757,7 +920,7 @@ For Copper pour the Net for top is Gnd and For Bottom Net is 3v.
 # Streamline Systematic
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.2h
 
 ---
@@ -774,7 +937,7 @@ Yesterday, i complete the Rough systematic, Today i am Adding Comment and Symbol
 # Prepare systematic
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 3.7h
 
 ---
@@ -797,7 +960,7 @@ Atsamd21e18A-AU datasheet
 # Research
 
 **Author:** dushyant.yadav0303
-**Date:** 
+ 
 **Time Logged:** 1.6h
 
 ---
