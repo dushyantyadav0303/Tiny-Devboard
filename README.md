@@ -130,25 +130,22 @@ A Encloser Case for Tiny Devboard. Case consists of 6 interlocking Hook that are
 
 Source: `production/pcb/bom.xlsx`
 
-|No.|Quantity|Comment             |Designator         |Footprint                                |Value|Price (exc Taxes)  |
-|---|--------|--------------------|-------------------|-----------------------------------------|-----|-------------------|
-|1  |5       |10K                 |R1,R2,R3,R4,R6     |R0805                                    |10K  |0.07$               |
-|2  |1       |1.5k                |R7                 |R0805                                    |1.5k |0.01$               |
-|3  |1       |10k                 |R5                 |R0805                                    |10k  |0.01$               |
-|4  |2       |0                   |R8,R9              |R0603                                    |0    |0.02$               |
-|5  |2       |0.1uF               |C5,C7              |C0805                                    |0.1uF|0.01$               |
-|6  |1       |1uf                 |C1                 |C0603                                    |1uf  |0.01$               |
-|7  |3       |10uF                |C3,C4,C6           |C0805                                    |10uF |0.04$               |
-|8  |1       |100nF               |C8                 |C0805                                    |100nF|0.01$               |
-|9  |2       |LED_0805-R          |LED3,LED4          |L0805                                    |     |0.02$               |
-|10 |1       |AM90                |USB1               |USB-AM-TH_AM90                           |     |0.25$               |
-|11 |1       |APA102-2020 SuperLED|U2                 |LED-SMD_6P-L2.0-W2.0-APA102-2020-SUPERLED|     |0.16$               |
-|12 |1       |ATSAMD21E18A-AU     |U1                 |TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL         |     |1.4$                |
-|13 |1       |ESP-12s             |U4                 |WIRELM-SMD_ESP-12S                       |     |1.7$                |
-|14 |1       |HT7833              |U3                 |SOT-89_L4.5-W2.5-P1.50-LS4.2-BR          |     |0.16$               |
-|15 |1       |ZX-PZ1.0-1-6PZZ     |Gn +3 Rx Tx Clk Dio|HDR-TH_6P-P1.00-V-F                      |     |0.01$               |
-|16 |3       |TSA010A2518A        |BOOT,SW1,SW2       |SW-SMD_L4.0-W3.0-LS5.0                   |     |0.1$                |
-|17 |1       |PCB                 |                   |                                         |     |2$ From Jlcpcb      |
+| No. | Quantity | Comment | Designator | Footprint | Value | Price (in INR) | Purchase |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1 | 1uf | C1 | C0603 | 1uf | 1.5 | [Buy](https://robu.in/product/cs2012x7r105k500nre-samwha-50v-1uf-x7r-±10-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) |
+| 2 | 1 | 1.5k | R7 | R0805_NEW | 1.5k | 0.4 | [Buy](https://robu.in/product/wr08x152jtl-walsin-125mw-thick-film-resistors-150v-±100ppm-℃-±5-1-5kω-0805-chip-resistor-surface-mount-rohs/) |
+| 4 | 3 | 0.1uf | C8,C5,C7 | C0805 | 0.1uF | 2.1 | [Buy](https://robu.in/product/cl21b104kcc5pnc-samsung-cap-ceramic-0-1uf-100v-x7r-10-pad-smd-0805-omd-cap-125c-automotive-aec-q200-t-r/) |
+| 5 | 1 | USB type A port | USB1 | USB-AM-TH_AM90 |  | 14 | [Buy](https://robu.in/product/u-g-04wd-w-03-hroparts-1a-1-4p-male-40℃85℃-type-a-plugin-usb-connectors-rohs/) |
+| 6 | 1 | APA102-2020 SuperLED | U2 | LED-SMD_6P-L2.0-W2.0-APA102-2020-SUPERLED |  | 17 | [Buy](https://www.lcsc.com/product-detail/C22439302.html) |
+| 7 | 1 | ATSAMD21E18A-AU | U1 | TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL |  | 460 | [Buy](https://www.lioncircuits.com/parts/ATSAMD21E18A-AU?srsltid=AfmBOoqME3VAq9PZQSvHuhd_Bdeb2dGMJ_xtFkHkNH2J88LDwBV4VpI7) |
+| 8 | 1 | ESP-12S | U4 | WIRELM-SMD_ESP-12S |  | 199 | [Buy](https://robu.in/product/esp-12s/) |
+| 9 | 1 | HT7833 | U3 | SOT-89_L4.5-W2.5-P1.50-LS4.2-BR |  | 46 | [Buy](https://robu.in/product/ht7833-holtek-semicon-500ma-fixed-3-3v-positive-electrode-8v-sot-89-3-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/) |
+| 10 | 1 | ZX-PZ1.0-1-6PZZ | Gn +3 Rx Tx Clk Dio | HDR-TH_6P-P1.00-V-F |  | 19 | [Buy](https://robu.in/product/1-month-warranty-884/) |
+| 11 | 2 | 0 | R8,R9 | R0603 | 0 | 0.96 | [Buy](https://robu.in/product/ac0805jr-070rl-yageo-res-thick-film-0805-0-ohm-pad-smd-t-r-automotive-aec-q200/) |
+| 13 | 2 | LED_0402-R | LED3,LED4 | LED0805-RD_GREEN_C0805YGC |  | 2.6 | [Buy](https://robu.in/product/xl-2012vrc-xinglight-5ma-90mcd-red-lens-615nm630nm-positive-stick-red-120-75mw-2-7v3-3v-0805-led-indication-discrete-rohs/) |
+| 14 | 3 | 10uF | C3,C4,C6 | C0805 | 10uF | 1.15 | [Buy](https://robu.in/product/cs2012x7r106k100nre-samwha-10v-10uf-%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) |
+| 15 | 3 | TSA010A2518A | BOOT,SW1,SW2 | SW-SMD_L4.0-W3.0-LS5.0 |  | 2.1 | [Buy](https://robu.in/product/tsa010a2010a02-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-100gf-12v-smd-tactile-switches-rohs/) |
+| 16 | 6 | 10K | R5,R1,R2,R3,R4,R6 | R0805 |  | 0.61 | [Buy](https://robu.in/product/ac0805fr-7w10kl-yageo-250mw-thick-film-resistors-%c2%b1100ppm-%e2%84%83-%c2%b11-10k%cf%89-0805-chip-resistor-surface-mount-rohs/) |
 
 
 
