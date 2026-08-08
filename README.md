@@ -146,7 +146,11 @@ Source: `production/pcb/bom.xlsx`
 | 14 | 3 | 10uF | C3,C4,C6 | C0805 | 10uF | 1.15 | [Buy](https://robu.in/product/cs2012x7r106k100nre-samwha-10v-10uf-%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) |
 | 15 | 3 | TSA010A2518A | BOOT,SW1,SW2 | SW-SMD_L4.0-W3.0-LS5.0 |  | 2.1 | [Buy](https://robu.in/product/tsa010a2010a02-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-100gf-12v-smd-tactile-switches-rohs/) |
 | 16 | 6 | 10K | R5,R1,R2,R3,R4,R6 | R0805 |  | 0.61 | [Buy](https://robu.in/product/ac0805fr-7w10kl-yageo-250mw-thick-film-resistors-%c2%b1100ppm-%e2%84%83-%c2%b11-10k%cf%89-0805-chip-resistor-surface-mount-rohs/) |
+| 17 | 1 | PCB |   |   |  | 190  | [Buy](https://jlcpcb.com)|
 
+> [!NOTE]
+> Price As of August 8, 2026 
+> & It not Include the Shipping fee <br/>
 
 
 ## License
