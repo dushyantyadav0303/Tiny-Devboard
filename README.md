@@ -41,7 +41,7 @@ A pocket-sized development board built for rapid prototyping, experimentation, a
 <br>
 <br>
 <p align=center>
-  <img width=80% src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
+  <img width=80% src="https://github.com/user-attachments/assets/6a4a5e60-dc45-4ab6-85bd-1833da18ec9d" />
 </p>
 
 
@@ -91,7 +91,7 @@ Source : `src/PCB/Pcb`
 | Front PCB | Back PCB |
 |-----------|----------|
 | <img src="https://github.com/user-attachments/assets/e3adce7b-7b6d-4565-8e5b-c559a74f469d" width="400"> | <img src="https://github.com/user-attachments/assets/6b76697b-ef22-403a-bd54-40974c6e1211" width="400"> |
-| <img src="https://github.com/user-attachments/assets/ae07806d-b671-4f46-b52e-571adf436200" width="400"> | <img src="https://github.com/user-attachments/assets/d890ca15-a733-4fff-b6a4-89498c2d2279" width="400"> |
+| <img src="https://github.com/user-attachments/assets/ddcee0db-782a-46bf-99d9-d1fefe8dbeaf" width="400"> | <img src="https://github.com/user-attachments/assets/9e3dd164-deef-4759-9da6-30eb1bc4dc33" width="400"> |
 
 </div>
 
